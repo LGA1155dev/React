@@ -1,2 +1,2 @@
 # React
- repository to learn React native
+ Estudando React
